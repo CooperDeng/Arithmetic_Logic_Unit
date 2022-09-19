@@ -1,5 +1,5 @@
 # Arithmetic_Logic_Unit
-Multiplexers, logic adders, 4bit full adders, and love!
+Multiplexers, logic adders, 4bit full adders.
 
 Created by Chengfeng Deng, last modified at March 15, 2022.
 
